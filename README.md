@@ -2,7 +2,7 @@
 
 An interactive dashboard built with Python for data visualization and analysis.
 
-## 🚀 Features
+##  Features
 
 **Job Role Analysis:** Detailed visualization of the different job roles within the fictional company.
 **Salary Analysis:** Exploration of salaries associated with different roles and levels.
